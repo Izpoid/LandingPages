@@ -1,0 +1,12 @@
+.cafe{
+    max-width: 500px;
+    border: 5px solid #ff9933; 
+}
+.mulher{
+    max-width: 500px;
+    border: 5px solid #ff9933; 
+}
+.cafe{
+    margin-bottom: 25px;
+}
+#header:{{Header Image};}
